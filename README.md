@@ -1,2 +1,9 @@
 # resume
-My Resume
+
+My Resume. Built with Typst.
+
+## Compile
+
+```
+typst compine resume.typ
+```
