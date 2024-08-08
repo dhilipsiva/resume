@@ -25,9 +25,9 @@
 
 == About Me
 
-I am a passionate and seasoned Software Architect/Engineer with a diverse skill set, boasting extensive experience across various programming languages and technologies. My active contributions to numerous GitHub repositories highlight my commitment to open-source collaboration.
+I am a passionate and seasoned Software Architect/Engineer with a diverse skill set, boasting extensive experience across various programming languages and technologies.
 
-My proficiency spans a wide spectrum, with a strong focus on building (micro)services, predominantly in Rust & Python. My recent interests revolve around the Rust programming language, WebAssembly, and distributed software, reflecting my continuous quest for innovation.
+My proficiency spans a wide spectrum, with a strong focus on building (micro)services, predominantly in Rust & Python. My recent interests revolve around the Rust programming language, WebAssembly, and distributed software.
 
 My capabilities encompass the entire software development lifecycle, from architecting and coding to deployment, autoscaling, and maintenance. I have successfully created server-side (.py, .rs), browser-side (.js, .ts, .wasm), and infrastructure (using tools like Terraform, Pulumi, and CDK) solutions. My portfolio includes the development of GraphQL, RPC, and RESTful microservices in Python and Rust, as well as crafting JavaScript frontends with Ember and React. I'm well-versed in DevOps pipelines and have experience in building an End-to-End Test Automation Framework (both horizontal and vertical) using RobotFramework. I've also ventured into the creation of native iOS apps, managed Android and iOS device farms, and even built a Raspberry Pi Bitcoin mining farm with custom ASIC chips.
 
